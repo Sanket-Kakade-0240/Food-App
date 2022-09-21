@@ -1,0 +1,96 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato&family=Poppins:wght@300&display=swap");
+
+.App {
+  font-family: "Lato", sans-serif;
+  text-align: center;
+}
+.link {
+  text-decoration: none;
+  padding: 0.5rem 1rem;
+  text-align: right;
+}
+.list-non-bullet {
+  list-style: none;
+  text-align: right;
+}
+
+.list-item-inline {
+  display: inline;
+  padding: 0rem 0.5rem;
+  text-align: right;
+}
+
+.navigation {
+  background-color: rgb(74, 31, 91);
+  color: whitesmoke;
+  padding: 1rem;
+  border-bottom-left-radius: 1rem;
+  box-shadow: 10px 5px 5px darkgray;
+}
+
+.navigation .nav-hmm {
+  font-weight: bold;
+}
+
+.navigation .nav-head {
+  text-align: left;
+}
+
+.navigation .link {
+  color: whitesmoke;
+  text-align: right;
+}
+
+.navigation .link-active {
+  font-weight: bold;
+  text-align: right;
+}
+
+.btn-click {
+  font-size: larger;
+  font-weight: bolder;
+  color: white;
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+  text-align: center;
+  margin: 0.5rem;
+  background-color: rgb(74, 31, 91);
+}
+
+.btn-click:hover {
+  color: rgb(74, 31, 91);
+  border-style: solid;
+  background-color: white;
+  border-color: rgb(74, 31, 91);
+}
+.images {
+  height: 150px;
+  width: 150px;
+}
+
+.footer {
+  margin-top: 3.5%;
+  background-color: rgb(74, 31, 91);
+  padding: 2rem 1rem;
+  text-align: center;
+  color: whitesmoke;
+  border-top-right-radius: 1rem;
+  /* position: fixed; */
+  bottom: 0;
+  width: 96.5%;
+}
+
+.footer .footer-header {
+  font-weight: bold;
+  font-size: large;
+}
+
+.footer .link {
+  color: whitesmoke;
+  text-align: center;
+}
+
+.footer ul {
+  padding-inline-start: 0px;
+  text-align: center;
+}
