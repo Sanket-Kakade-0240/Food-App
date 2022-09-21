@@ -1,2 +1,2 @@
-# Food-App
+# Food-Recommendation-App
 Created with CodeSandbox
