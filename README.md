@@ -1,2 +1,2 @@
 # Food-Recommendation-App
-Created with CodeSandbox
+A react js based food recommending web application.
